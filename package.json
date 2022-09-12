@@ -1,0 +1,23 @@
+{
+  "name": "checkers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "damka.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YacovGold/checkers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YacovGold/checkers/issues"
+  },
+  "homepage": "https://github.com/YacovGold/checkers#readme",
+  "devDependencies": {
+    "typescript": "^4.8.2"
+  }
+}
